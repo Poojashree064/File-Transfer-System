@@ -21,10 +21,12 @@ This project implements a simple **File Transfer System** using Java. It consist
 Compile and run the server:
 
 javac FileTransferServer.java
+
 java FileTransferServer
 
 ### 2.Start the Client
 Compile and run the client:
 
 javac FileTransferClient.java
+
 java FileTransferClient
